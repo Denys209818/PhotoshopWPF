@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\bin\Debug\MiniPhotoshop.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\bin\Debug\MiniPhotoshop.exe
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\bin\Debug\MiniPhotoshop.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MainWindow.g.cs
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\App.g.cs
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop_MarkupCompile.cache
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop_MarkupCompile.lref
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MainWindow.baml
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop.g.resources
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop.Properties.Resources.resources
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop.exe
+C:\Users\Denis\Desktop\WPF HomeWork\MiniPhotoshop\MiniPhotoshop\obj\Debug\MiniPhotoshop.pdb
